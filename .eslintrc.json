@@ -23,6 +23,6 @@
     "max-len": ["warn", { "code": 100, "tabWidth": 2 }],
     "quotes": ["warn", "single", { "avoidEscape": true }],
     "jsx-quotes": ["warn", "prefer-single"],
-    "comma-dangle": ["warn", "always-multiline"]
+    "comma-dangle": ["warn", "never"]
   }
 }
