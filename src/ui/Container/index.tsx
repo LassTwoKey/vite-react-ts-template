@@ -6,5 +6,5 @@ type ContainerType = {
 
 export const Container: FC<ContainerType> = (props) => {
   const { children } = props
-  return <button>{children}</button>
+  return <div>{children}</div>
 }
